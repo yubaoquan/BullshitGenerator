@@ -1,6 +1,6 @@
 {
-  "name": "BullshitGenerator",
-  "version": "1.0.0",
+  "name": "generate-article",
+  "version": "1.0.1",
   "description": "狗屁文章生成器nodejs版",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SirSui/BullshitGenerator.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "sirsui",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SirSui/BullshitGenerator/issues"

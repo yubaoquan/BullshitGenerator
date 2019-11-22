@@ -26,5 +26,4 @@ function generator(title="无标题", length = 1000) {
     }
     return body;
 }
-
-export default generator;
+module.exports=generator;
