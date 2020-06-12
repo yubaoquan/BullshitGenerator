@@ -1,20 +1,26 @@
 {
   "name": "generate-article",
-  "version": "1.0.1",
-  "description": "狗屁文章生成器nodejs版",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "狗屁文章生成器 deno 版",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SirSui/BullshitGenerator.git"
+    "url": "git+https://github.com/yubaoquan/BullshitGenerator.git"
   },
   "keywords": [],
-  "author": "sirsui",
+  "author": "yubaoquan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SirSui/BullshitGenerator/issues"
+    "url": "https://github.com/yubaoquan/BullshitGenerator/issues"
   },
-  "homepage": "https://github.com/SirSui/BullshitGenerator#readme"
+  "homepage": "https://github.com/yubaoquan/BullshitGenerator#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
 }
