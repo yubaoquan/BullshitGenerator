@@ -5,6 +5,10 @@
 
 发现一个 [nodejs 版的狗屁文章生产器](https://github.com/SirSui/BullshitGenerator), 拿下来改成 deno 版
 
+增加的功能:
+1. 扩充了一些废话
+2. 控制重复句子的出现率
+
 测试方法
 ```shell
 deno run src/test.ts
